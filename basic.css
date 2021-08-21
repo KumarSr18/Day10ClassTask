@@ -1,0 +1,43 @@
+  
+  body{
+    background-color:skyblue;
+  }
+  
+  
+  /*CSS - Cascading Style Sheet */
+  /* Cascading - Overriding */
+  
+  .de{
+    
+    font-size: large; 
+    font-weight: bold;
+    font-style:inherit;
+  }
+
+  .fe{
+    font-size:small; 
+    font-style:inherit;
+  }
+
+  
+  
+  div{
+    border:0px solid transparent;
+    border-radius: 14px;
+    width:450px;
+    height: 450px;
+    color:rgb(0, 0, 0);
+    background-color: white;
+    text-align: center;
+    }
+  
+  
+  .banner{
+    align-content: center;
+    height:250px;
+    width:450px; 
+    border-radius:14px;
+    border-end-end-radius:0px;
+    border-bottom-left-radius: 0px;
+    /* box-shadow: 10px 14px 21px -2px rgba(0,0,0,0.56); */
+  }
